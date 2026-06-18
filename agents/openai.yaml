@@ -1,0 +1,4 @@
+interface:
+  display_name: "Create World Heritage Guides"
+  short_description: "Create UNESCO heritage education guides"
+  default_prompt: "Use $create-world-heritage-guides to create an educator-ready guide for a UNESCO World Heritage Site."
