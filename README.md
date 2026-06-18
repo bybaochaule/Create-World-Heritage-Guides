@@ -16,13 +16,7 @@ This Codex skill helps produce accurate, classroom-ready and audience-aware mate
 - Classroom activities and field-study handouts
 - Museum labels and exhibit text
 - Documentary outlines, narration beats, and interview prompts
-- ## Skill Contents
 
-- `SKILL.md` - Core workflow, trigger description, audience calibration, and quality bar
-- `references/source-standards.md` - Source hierarchy, fact-checking rules, and sensitivity standards
-- `references/guide-templates.md` - Reusable templates for guides, fact sheets, activities, quizzes, labels, and documentary outlines
-- `assets/social-preview-prompt.md` - Prompt for generating a GitHub social preview image
-- `agents/openai.yaml` - UI metadata for Codex skill listings
 
 ## Example Prompts
 
