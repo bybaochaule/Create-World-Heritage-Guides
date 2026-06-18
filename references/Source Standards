@@ -1,0 +1,58 @@
+# Source Standards
+
+Use this reference when producing factual UNESCO World Heritage content, preservation notes, citations, or current status.
+
+## Preferred Source Order
+
+1. UNESCO World Heritage Centre property page for official name, country, criteria, inscription date, Outstanding Universal Value, maps, documents, state of conservation, and Danger List status.
+2. UNESCO advisory bodies and heritage organizations:
+   - ICOMOS for cultural heritage evaluations and conservation perspectives
+   - IUCN for natural heritage evaluations and conservation perspectives
+   - ICCROM for conservation practice and capacity-building context
+3. National or site management authorities for management plans, visitor guidance, local conservation programs, and legal protection.
+4. Museums, universities, peer-reviewed scholarship, and credible cultural institutions for deeper historical, archaeological, ecological, or interpretive context.
+5. Reputable journalism only for recent events, controversies, disasters, tourism pressure, or policy changes; cross-check important claims against official or expert sources.
+
+## Verification Checklist
+
+Verify these items before using them as facts:
+- Official UNESCO property name and spelling
+- Country or countries
+- UNESCO region
+- Cultural, natural, or mixed classification
+- Inscription year and extension years
+- UNESCO criteria, written as roman numerals when appropriate
+- Official Outstanding Universal Value summary
+- Property ID, component parts, coordinates, area, and buffer zone when relevant
+- State of conservation, Danger List status, and major threat categories
+- Management authority, protection framework, and active preservation programs when relevant
+
+## Citation Practice
+
+For guides with source notes, cite sources in a simple educator-friendly format:
+
+```text
+Sources: UNESCO World Heritage Centre, "[Official Property Name]" property page; ICOMOS/IUCN advisory evaluation; [national/site authority], [document or page title].
+```
+
+When browsing is used, include access dates if the final product is formal, current-status focused, or likely to be distributed.
+
+## Accuracy Rules
+
+Do not infer UNESCO criteria from the site's general importance. Use the official criteria.
+
+Do not call a site endangered unless it is officially on the List of World Heritage in Danger, or clearly phrase the issue as a threat, risk, or conservation concern.
+
+Do not collapse a serial property into one location. Name the relevant component parts when the distinction matters.
+
+Do not present legends, sacred narratives, oral traditions, contested archaeology, or nationalist claims as settled historical fact. Attribute them carefully.
+
+Do not overstate tourism access. Some sacred, fragile, restricted, or community-managed places require special permission or should not be promoted as visitor attractions.
+
+## Sensitivity Standards
+
+Use respectful language for living communities connected to a site. Avoid describing people only as part of the past when descendant or steward communities are present today.
+
+For sacred, burial, conflict, slavery, genocide, or colonial sites, foreground dignity, agency, and historical specificity. Avoid sensationalism.
+
+For natural sites, connect biodiversity and geology to stewardship, climate, local livelihoods, and conservation tradeoffs instead of treating landscapes as scenery.
